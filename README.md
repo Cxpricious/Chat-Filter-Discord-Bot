@@ -21,7 +21,7 @@ the bot prevents people sending messages which contains bad words and protects y
 
 ## How to use?
 - make an account on [Replit](https://replit.com) or skip this step if you have that already.
-- create a new repl by importing from GitHub. For the project link use `TeraBaapBro/Chat-Filter-Discord-Bot`
+- create a new repl by importing from GitHub. For the project link use `Cxpricious/Chat-Filter-Discord-Bot`
 - once created, go to the *secrets* section and put the key to : TOKEN & paste your bot token in the value.
 - once done, run the repl and copy the "repl.co" link. Head over to [UptimeRobot](https://uptimerobot.com) 
 - Create an account on that website. if you already have one, create a monitor with type *HTTP(s)*.
